@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Frontmentor05/static/js/main.cfd55ed7.js",
+    "static/js/474.cd99bc99.js": "/Frontmentor05/static/js/474.cd99bc99.js",
+    "static/media/hero-mobile.jpg": "/Frontmentor05/static/media/hero-mobile.1afd055b71b78462d388.jpg",
+    "favicon.ico": "/Frontmentor05/favicon.ico",
+    "index.html": "/Frontmentor05/index.html",
+    "favicon-32.png": "/Frontmentor05/favicon-32.png",
+    "favicon-16.png": "/Frontmentor05/favicon-16.png",
+    "serve.json": "/Frontmentor05/serve.json",
+    "manifest.json": "/Frontmentor05/manifest.json",
+    "main.cfd55ed7.js.map": "/Frontmentor05/static/js/main.cfd55ed7.js.map",
+    "474.cd99bc99.js.map": "/Frontmentor05/static/js/474.cd99bc99.js.map"
+  },
+  "entrypoints": [
+    "static/js/474.cd99bc99.js",
+    "static/js/main.cfd55ed7.js"
+  ]
+}
